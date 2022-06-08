@@ -253,3 +253,39 @@ h2 {
     background-color: #F53838;
     color: #fff;
 }
+/* block-6 */
+.block-6 {
+    text-align: center;
+    
+}
+
+.block-6 p {
+    margin: 20px 0 155px 0;
+}
+
+/* block-7 */
+.block-7 {
+    display: flex;
+    justify-content: center;
+}
+/* blocK-8 */
+.slider-sponsor {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 0 125px;
+}
+
+.slider-sp {
+    width: 190px;
+    height: 60px;
+    background-color: #7d7f83;
+}
+
+/* block-9 */
+.block-9 {
+    text-align: center;
+}
+.block-9 p {
+    margin: 20px 0 96px;
+}
