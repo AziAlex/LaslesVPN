@@ -1,0 +1,70 @@
+.body {
+
+}
+.wrap {
+    width: 85%;
+    margin: 0 auto;
+}
+.header {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+}
+.navbar li {
+    margin: 0 40px;
+}
+.navbar li a {
+    color: #7d7f83;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+.navbar li a:hover {
+    color: black;
+    border-bottom: 2px solid #7d7f83;
+    transition: 0.2s;
+}
+
+.login {
+}
+.sing-in {
+    font-size: 16px;
+    padding: 13px 45px;
+    font-weight: 600;
+    color: #0B132A;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    background-color: #fff;
+    border: 0;
+}
+.sing-up {
+    color: #F53855;
+    font-size: 16px;
+    padding: 13px 49px;
+    font-weight: 600;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    background-color: #fff;
+    border-radius: 50px;
+    border: 2px solid #F53855;
+}
+
+.sing-in:hover {
+    background-color: #0B132A;
+    border-radius: 50px;
+    /* border: 2px solid #0B132A; */
+    color: #fff;
+}
+.sing-up:hover {
+    background-color: #F53855;
+    border-radius: 50px;
+    border: 2px solid #F53855;
+    color: #fff;
+}
+
+.section {
+}
+.footer {
+}
